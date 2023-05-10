@@ -12,6 +12,6 @@ Bio: 🌩️ Cloud Engineer | 💻 Tech Enthusiast | 🎮 Gamer
 
 📫 You can reach me via email at jasmine.rios@email.com or connect with me on LinkedIn at https://www.linkedin.com/in/jasmine-marie-rios/. I'm always eager to connect with like-minded professionals, share knowledge, and learn from the incredible developer community.
 
-🌟 Let's elevate the cloud and gaming experience together! Happy coding and gaming!
+🌟 Let's elevate the cloud experience together! 
 
-#CloudComputing #InfrastructureAsCode #Automation #Gaming
+#CloudComputing #InfrastructureAsCode #Automation 
